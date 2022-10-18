@@ -1,0 +1,38 @@
+#its1{
+    font-size: 50px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+#tecnm{
+    font-size: 30px;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+
+header{
+    text-align: center;
+}
+
+body{
+    background-image: url("images/fondo.png")  ;
+}
+
+.IM1{
+    width: 400px;
+    height: 250px;
+}
+
+.img_tecnm{
+    width: 220px;
+    height: 125px;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+}
+
+.img_its{
+    width: 150px;
+    height: 125px;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+}
